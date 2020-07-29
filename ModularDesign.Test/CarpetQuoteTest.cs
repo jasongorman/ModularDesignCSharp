@@ -8,17 +8,17 @@ namespace ModularDesign.Test
         [Test]
         public void PriceOfFittedCarpetUnrounded()
         {
-            CarpetQuote quote = new CarpetQuote(10.5, 5.5, 10.0, false);
+            CarpetQuote quote = new CarpetQuote();
             Assert.AreEqual(577.50, 
-                quote.FittedPrice());
+                quote.FittedPrice(10.5, 5.5, 10.0, false));
         }
         
         [Test]
         public void PriceOfFittedCarpetRoundedUp()
         {
-            CarpetQuote quote = new CarpetQuote(10.5, 5.5, 10.0, true);
+            CarpetQuote quote = new CarpetQuote();
             Assert.AreEqual(580.0, 
-                quote.FittedPrice());
+                quote.FittedPrice(10.5, 5.5, 10.0, true));
         }
     }
 }
