@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jasongorman\\RiderProjects\\ModularDesign\\ModularDesign.Test\\ModularDesign.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jasongorman\\RiderProjects\\ModularDesign\\ModularDesign.Test\\ModularDesign.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jasongorman\\RiderProjects\\ModularDesign\\ModularDesign.Test\\ModularDesign.Test.csproj",
+        "projectName": "ModularDesign.Test",
+        "projectPath": "C:\\Users\\jasongorman\\RiderProjects\\ModularDesign\\ModularDesign.Test\\ModularDesign.Test.csproj",
+        "packagesPath": "C:\\Users\\jasongorman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jasongorman\\RiderProjects\\ModularDesign\\ModularDesign.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\jasongorman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

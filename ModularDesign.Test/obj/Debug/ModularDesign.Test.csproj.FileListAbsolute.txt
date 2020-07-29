@@ -1,0 +1,11 @@
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\bin\Debug\ModularDesign.Test.dll
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\bin\Debug\ModularDesign.Test.pdb
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\bin\Debug\nunit.framework.dll
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\bin\Debug\nunit.framework.pdb
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\obj\Debug\ModularDesign.Test.csprojResolveAssemblyReference.cache
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\obj\Debug\ModularDesign.Test.csproj.CoreCompileInputs.cache
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\obj\Debug\ModularDesign.Test.csproj.CopyComplete
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\obj\Debug\ModularDesign.Test.dll
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\obj\Debug\ModularDesign.Test.pdb
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\bin\Debug\ModularDesign.dll
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign.Test\bin\Debug\ModularDesign.pdb

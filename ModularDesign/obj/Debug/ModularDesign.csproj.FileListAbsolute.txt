@@ -1,0 +1,6 @@
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign\bin\Debug\ModularDesign.dll
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign\bin\Debug\ModularDesign.pdb
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign\obj\Debug\ModularDesign.csprojResolveAssemblyReference.cache
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign\obj\Debug\ModularDesign.csproj.CoreCompileInputs.cache
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign\obj\Debug\ModularDesign.dll
+C:\Users\jasongorman\RiderProjects\ModularDesign\ModularDesign\obj\Debug\ModularDesign.pdb
